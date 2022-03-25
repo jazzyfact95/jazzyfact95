@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=168022&height=170&section=header&text=노력하고%20성취하는%20FRONT-END%20개발자%20최현석입니다.&fontSize=22&animation=fadeIn)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=168022&height=170&section=header&text=😊&fontSize=22&animation=fadeIn)
 
 </div>
  
@@ -9,9 +9,8 @@
 <hr/>
 <div align="center">
   <h2>안녕하세요,</h2>
-  <h3>프론트앤드 개발을 즐기는 개발자, 최현석입니다.</h3>
+  <h3>노력하고 성취하는 개발자, 최현석입니다.</h3>
   <p>최선, 최고의 UX를 목표로 프로덕트 개발에 임하고 있습니다.</p>
-  <p>ineractive developer, velopert 님 같은 개발자를 지향하며, 노력하고 있습니다.</p>
 </div>
 <hr/>
 <div align="center">
@@ -32,14 +31,14 @@
     
   <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/HTML-00599C?style=flat&logo=html5&logoColor=white"/></a>
-
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/ES6-ffb13b?style=flat&logo=javascript&logoColor=white"/></a>
     <br/>
-      <img src="https://img.shields.io/badge/React-005571?style=flat&logo=React&logoColor=white"/></a>
+         <img src="https://img.shields.io/badge/React-005571?style=flat&logo=React&logoColor=white"/></a>
          <img src="https://img.shields.io/badge/Babel-005571?style=flat&logo=Babel&logoColor=white"/></a>
-           <img src="https://img.shields.io/badge/StyledComponent-005571?style=flat&logo=StyledComponents&logoColor=white"/></a>
-                      <img src="https://img.shields.io/badge/Redux-005571?style=flat&logo=Redux&logoColor=white"/></a>
-                             <img src="https://img.shields.io/badge/ReduxThunk-005571?style=flat&logo=ReduxThunk&logoColor=white"/></a>
+         <img src="https://img.shields.io/badge/StyledComponent-005571?style=flat&logo=StyledComponents&logoColor=white"/></a>
+         <img src="https://img.shields.io/badge/Redux-005571?style=flat&logo=Redux&logoColor=white"/></a>
+         <img src="https://img.shields.io/badge/ReduxThunk-005571?style=flat&logo=ReduxThunk&logoColor=white"/></a>
       <br/>
     <img src="https://img.shields.io/badge/Visual Studio Code-DB3552?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/GitHub-333664?style=flat&logo=GitHub&logoColor=white"/></a>
