@@ -65,6 +65,6 @@
 
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=#168022&height=100&section=header&&fontSize=22&animation=fadeIn)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=header&&fontSize=22&animation=fadeIn)
 
 </div>
