@@ -28,14 +28,32 @@
 <hr/>
 
 <div align="center">
-  <h4>제가 현재 깊게 공부하며 사용하고 있는 기술 스택입니다.</h4>
-  
-<img src="https://img.shields.io/badge/ESLint-${색상}?style=${뱃지스타일}&logo=EsLint&logoColor=${텍스트 색상}"/>
+  <h4>제가 현재 깊게 공부하며 사용하고 있는 기술 스택입니다.</h4
+    
+  <img src="https://img.shields.io/badge/TypeScript-005571?style=flat&logo=ts-node&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/ejs-00599C?style=fla&logo=AzurePipelines&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/HTML-00599C?style=flat&logo=html5&logoColor=white"/></a>&nbsp
+  <br/>
+  <img src="https://img.shields.io/badge/React-005571?style=flat&logo=React&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/ES6-ffb13b?style=flat&logo=javascript&logoColor=white"/></a>&nbsp 
+    <br/>
+    <img src="https://img.shields.io/badge/Visual Studio Code-DB3552?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>&nbsp
+
+  <img src="https://img.shields.io/badge/GitHub-333664?style=flat&logo=GitHub&logoColor=white"/></a>&nbsp
+  <br/>
+
 
   <h4>아래는 알고있는 기술 스택입니다.</h4>
   
-  
-  
+    <img src="https://img.shields.io/badge/NodeJS-11B48A?style=flat&logo=Node.js&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Express-00599C?style=flat&logo=express&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>&nbsp
+    <br>
+<img src="https://img.shields.io/badge/MySql-E6B91E?style=flat&logo=MySql&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Maria-00599C?style=flat&logo=mariadb&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Eclipse IDE-11B48A?style=flat&logo=EclipseIDE&logoColor=white"/></a>&nbsp
 </div>
 <hr/>
 
