@@ -17,7 +17,7 @@
 <div align="center">
   <h2>저는,</h2>
   <h3> 🤝 둥그렇습니다  </h3>
-  <p>디자이너 - 백엔드 개발자 사이에서 둥그렇게 소통하며 일합니다.</p>
+  <p>디자이너 - 백엔드 개발자 사이에서 둥그렇게 소통합니다.</p>
     <h3> 👂 경청합니다. </h3>
   <p> 피드백을 수용하고, 메모하고, 개선합니다.</p>
     <h3> ✍ 공부합니다. </h3>
@@ -60,5 +60,11 @@
 <p style="text-align:center"> 개발 기록 및 학습 내용을 기록하는 제 VELOG 입니다. ✌ </p>
   
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jazzyfact95&color=dark)](https://velog.io/@jazzyfact95)
+
+</div>
+
+<div align="center">
+
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=#00000&height=100&section=header&&fontSize=22&animation=fadeIn)
 
 </div>
