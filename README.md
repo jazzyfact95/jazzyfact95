@@ -13,11 +13,10 @@
   <p>최선, 최고의 UX를 목표로 프로덕트 개발에 임하고 있습니다.</p>
 </div>
 <hr/>
-
-<hr/>
 <div align="center">
-  <h4>현재 깊게 공부하며 사용하고 있는 기술 스택입니다.</h4
-    
+  <h2>기술 스택</h2>
+  <br/>
+  <h4>현재 깊게 공부하며 사용하고 있는 기술 스택입니다.</h4>
   <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/HTML-00599C?style=flat&logo=html5&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/></a>
@@ -30,14 +29,7 @@
          <img src="https://img.shields.io/badge/Redux-005571?style=flat&logo=Redux&logoColor=white"/></a>
          <img src="https://img.shields.io/badge/ReduxThunk-005571?style=flat&logo=ReduxThunk&logoColor=white"/></a>
       <br/>
-
-  <br/>
-
-
   <h4>공부했던 기술입니다.</h4>
-  
-  
-
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>
     <br/>
@@ -46,7 +38,7 @@
   <br/>
   <img src="https://img.shields.io/badge/MySql-E6B91E?style=flat&logo=MySql&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Maria-00599C?style=flat&logo=mariadb&logoColor=white"/></a>
-
+  <br/>
   <h4>사용하는 툴입니다.</h4>
     <img src="https://img.shields.io/badge/Eclipse IDE-11B48A?style=flat&logo=EclipseIDE&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/Visual Studio Code-DB3552?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
