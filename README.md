@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=#&height=170&section=header&text=노력하고%20성취하는%20FRONT-END%20개발자%20최현석입니다.&fontSize=22&animation=fadeIn)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=#ff0000&height=170&section=header&text=노력하고%20성취하는%20FRONT-END%20개발자%20최현석입니다.&fontSize=22&animation=fadeIn)
 
 </div>
  
