@@ -15,6 +15,7 @@
   <h2>안녕하세요,</h2>
   <h3>프론트앤드 개발을 즐기는 개발자, 최현석입니다.</h3>
   <p>최선, 최고의 UX를 목표로 프로덕트 개발에 임하고 있습니다.</p>
+  <p>ineractive developer, velopert 님 같은 개발자를 지향하며, 노력하고 있습니다.</p>
 </div>
 <hr/>
 <div align="center">
