@@ -1,6 +1,19 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=노력하고%20성취하는%20FRONT-END%20개발자%20최현석입니다.&fontSize=22&animation=fadeIn)
 
-<img src="https://img.shields.io/badge/ESLint-${색상}?style=${뱃지스타일}&logo=${텍스트}&logoColor=${텍스트 색상}"/></a>&nbsp
+<div align="center">
+
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=노력하고%20성취하는%20FRONT-END%20개발자%20최현석입니다.&fontSize=22&animation=fadeIn)
+
+</div>
+ 
+<div align="center">
+
+<img src="https://img.shields.io/badge/ESLint-${색상}?style=${뱃지스타일}&logo=EsLint&logoColor=${텍스트 색상}"/>
+
+</div>
+
+  
+
+<p style="text-align:center"> 개발 기록 및 학습 내용을 기록하는 VELOG 운영중입니다. </p>
 
 <div align="center" style="text-align:center">
 
