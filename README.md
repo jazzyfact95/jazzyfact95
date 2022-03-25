@@ -5,13 +5,13 @@
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
-  <a href="https://github.com/jazzfact95">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazzfact95&layout=compact&show_icons=true&show_owner=false&hide_title=true&theme=" />
+  <a href="https://github.com/jazzyfact95">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazzyfact95&layout=compact&show_icons=true&show_owner=false&hide_title=true&theme=" />
   </a>
 </p>
 <h3 align="center">💡 My Git Stats 💡</h3>
 <p align="center">
-  <a href="https://github.com/jazzfact95">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jazzfact95&show_icons=true&include_all_commits=true&theme=" />
+  <a href="https://github.com/jazzyfact95">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jazzyfact95&show_icons=true&include_all_commits=true&theme=" />
   </a>
 </p>
