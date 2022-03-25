@@ -29,7 +29,7 @@
          <img src="https://img.shields.io/badge/Redux-005571?style=flat&logo=Redux&logoColor=white"/></a>
          <img src="https://img.shields.io/badge/ReduxThunk-005571?style=flat&logo=ReduxThunk&logoColor=white"/></a>
       <br/>
-  <h4>공부했던 기술입니다.</h4>
+  <h4>알고 있는 기술 스택입니다.</h4>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>
     <br/>
