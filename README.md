@@ -2,7 +2,11 @@
 
 <img src="https://img.shields.io/badge/ESLint-${색상}?style=${뱃지스타일}&logo=${텍스트}&logoColor=${텍스트 색상}"/></a>&nbsp
 
+<div align="center" style="text-align:center">
 
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jazzyfact95&color=dark)])
+
+</div>
 
 <p align="center">
   <a href="https://github.com/jazzyfact95">
