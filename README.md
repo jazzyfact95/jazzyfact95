@@ -27,7 +27,7 @@
 <hr/>
 
 <div align="center">
-  <h4>제가 현재 깊게 공부하며 사용하고 있는 기술 스택입니다.</h4
+  <h4>현재 깊게 공부하며 사용하고 있는 기술 스택입니다.</h4
     
   <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/HTML-00599C?style=flat&logo=html5&logoColor=white"/></a>
