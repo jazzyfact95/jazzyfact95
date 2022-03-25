@@ -12,15 +12,17 @@
 </div>
 
   
-
-
-<div align="center" style="text-align:center">
-
-<p style="text-align:center"> 개발 기록 및 학습 내용을 기록하는 VELOG 운영중입니다. </p>
-  
-  ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jazzyfact95&color=dark)
-
+<div align="center">
+  <h2>저는,</h2>
+  <h3> 🤝 둥그렇게 일합니다  </h3>
+  <p>디자이너 - 백엔드 개발자 사이에서 둥그렇게 소통하며 일합니다.</p>
+    <h3> 👂 경청하며 일합니다. </h3>
+  <p> 피드백을 수용하고, 메모하고, 개선합니다.</p>
+    <h3> ✍ 트랜드를 공부합니다 </h3>
+  <p> 기본기를 공부하며, 트랜드도 놓치지 않습니다.</p>
 </div>
+
+
 
 <p align="center">
   <a href="https://github.com/jazzyfact95">
@@ -33,3 +35,12 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jazzyfact95&show_icons=true&include_all_commits=true&theme=" />
   </a>
 </p>
+
+
+<div align="center" style="text-align:center">
+
+<p style="text-align:center"> 개발 기록 및 학습 내용을 기록하는 VELOG ✌ </p>
+  
+  ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jazzyfact95&color=dark)
+
+</div>
