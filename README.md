@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=노력하고%20성장하는%20개발자%20최현석입니다.&fontSize=22&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=노력하고%20성취하는%20개발자%20최현석입니다.&fontSize=22&animation=fadeIn)
 
 <img src="https://img.shields.io/badge/${아이콘}-${색상}?style=${뱃지스타일}&logo=${텍스트}&logoColor=${텍스트 색상}"/></a>&nbsp
 
