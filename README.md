@@ -36,10 +36,10 @@
   <img src="https://img.shields.io/badge/ES6-ffb13b?style=flat&logo=javascript&logoColor=white"/></a>
     <br/>
       <img src="https://img.shields.io/badge/React-005571?style=flat&logo=React&logoColor=white"/></a>
-         <img src="https://img.shields.io/badge/React-005571?style=flat&logo=Babel&logoColor=white"/></a>
-           <img src="https://img.shields.io/badge/React-005571?style=flat&logo=StyledComponents&logoColor=white"/></a>
-                      <img src="https://img.shields.io/badge/React-005571?style=flat&logo=Redux&logoColor=white"/></a>
-                             <img src="https://img.shields.io/badge/React-005571?style=flat&logo=ReduxThunk&logoColor=white"/></a>
+         <img src="https://img.shields.io/badge/Babel-005571?style=flat&logo=Babel&logoColor=white"/></a>
+           <img src="https://img.shields.io/badge/StyledComponent-005571?style=flat&logo=StyledComponents&logoColor=white"/></a>
+                      <img src="https://img.shields.io/badge/Redux-005571?style=flat&logo=Redux&logoColor=white"/></a>
+                             <img src="https://img.shields.io/badge/ReduxThunk-005571?style=flat&logo=ReduxThunk&logoColor=white"/></a>
       <br/>
     <img src="https://img.shields.io/badge/Visual Studio Code-DB3552?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/GitHub-333664?style=flat&logo=GitHub&logoColor=white"/></a>
