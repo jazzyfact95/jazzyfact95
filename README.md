@@ -27,12 +27,13 @@
 <hr/>
 
 <div align="center">
-  <h4>현재 깊게 공부하며 사용하고 있는 기술 스택입니다.</h4
+  <h4>현재 깊게 공부하며 사용하고 있는 기술 스택은요,</h4
     
   <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/HTML-00599C?style=flat&logo=html5&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/ES6-ffb13b?style=flat&logo=javascript&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/SemanticUIReact-35BDB2?style=flat&logo=Semantic-UI3&logoColor=white"/></a>
     <br/>
          <img src="https://img.shields.io/badge/React-005571?style=flat&logo=React&logoColor=white"/></a>
          <img src="https://img.shields.io/badge/Babel-005571?style=flat&logo=Babel&logoColor=white"/></a>
@@ -40,12 +41,11 @@
          <img src="https://img.shields.io/badge/Redux-005571?style=flat&logo=Redux&logoColor=white"/></a>
          <img src="https://img.shields.io/badge/ReduxThunk-005571?style=flat&logo=ReduxThunk&logoColor=white"/></a>
       <br/>
-    <img src="https://img.shields.io/badge/Visual Studio Code-DB3552?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/GitHub-333664?style=flat&logo=GitHub&logoColor=white"/></a>
+
   <br/>
 
 
-  <h4>아래는 알고있는 기술 스택입니다.</h4>
+  <h4>공부했던 기술 스택은요,</h4>
   
   
 
@@ -57,9 +57,17 @@
   <br/>
   <img src="https://img.shields.io/badge/MySql-E6B91E?style=flat&logo=MySql&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Maria-00599C?style=flat&logo=mariadb&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Eclipse IDE-11B48A?style=flat&logo=EclipseIDE&logoColor=white"/></a>
+
+  <h4>사용할줄 아는 툴은요,</h4>
+    <img src="https://img.shields.io/badge/Eclipse IDE-11B48A?style=flat&logo=EclipseIDE&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/Visual Studio Code-DB3552?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/GitHub-333664?style=flat&logo=GitHub&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=ESLint3&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/AdobeXD-ff61f6?style=flat&logo=Adobe-XD&logoColor=white"/></a>
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/></a
 </div>
 <hr/>
+
 
 
 <p align="center">
