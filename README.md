@@ -13,10 +13,11 @@
 
   
 
-<p style="text-align:center"> 개발 기록 및 학습 내용을 기록하는 VELOG 운영중입니다. </p>
 
 <div align="center" style="text-align:center">
 
+<p style="text-align:center"> 개발 기록 및 학습 내용을 기록하는 VELOG 운영중입니다. </p>
+  
   ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jazzyfact95&color=dark)
 
 </div>
