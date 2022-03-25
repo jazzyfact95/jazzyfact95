@@ -4,7 +4,7 @@
 
 <div align="center" style="text-align:center">
 
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jazzyfact95&color=dark)])
+  ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jazzyfact95&color=dark)
 
 </div>
 
