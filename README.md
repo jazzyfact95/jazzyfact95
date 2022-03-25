@@ -5,11 +5,7 @@
 
 </div>
  
-<div align="center">
 
-<img src="https://img.shields.io/badge/ESLint-${색상}?style=${뱃지스타일}&logo=EsLint&logoColor=${텍스트 색상}"/>
-
-</div>
 <hr/>
 <div align="center">
   <h2>안녕하세요,</h2>
@@ -26,8 +22,22 @@
   <p> 피드백을 수용하고, 메모하고, 개선합니다.</p>
     <h3> ✍ 공부합니다. </h3>
   <p> 기본기를 공부하며, 트랜드도 놓치지 않습니다.</p>
+      <h3> 😎 솔직합니다. </h3>
+  <p> 핑계대지 않고 책임을 지며 신뢰자산을 쌓습니다.</p>
 </div>
+<hr/>
 
+<div align="center">
+  <h4>제가 현재 깊게 공부하며 사용하고 있는 기술 스택입니다.</h4>
+  
+<img src="https://img.shields.io/badge/ESLint-${색상}?style=${뱃지스타일}&logo=EsLint&logoColor=${텍스트 색상}"/>
+
+  <h4>아래는 알고있는 기술 스택입니다.</h4>
+  
+  
+  
+</div>
+<hr/>
 
 
 <p align="center">
