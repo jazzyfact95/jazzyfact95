@@ -32,9 +32,15 @@
     
   <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/HTML-00599C?style=flat&logo=html5&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/React-005571?style=flat&logo=React&logoColor=white"/></a>
+
   <img src="https://img.shields.io/badge/ES6-ffb13b?style=flat&logo=javascript&logoColor=white"/></a>
     <br/>
+      <img src="https://img.shields.io/badge/React-005571?style=flat&logo=React&logoColor=white"/></a>
+         <img src="https://img.shields.io/badge/React-005571?style=flat&logo=Babel&logoColor=white"/></a>
+           <img src="https://img.shields.io/badge/React-005571?style=flat&logo=StyledComponents&logoColor=white"/></a>
+                      <img src="https://img.shields.io/badge/React-005571?style=flat&logo=Redux&logoColor=white"/></a>
+                             <img src="https://img.shields.io/badge/React-005571?style=flat&logo=ReduxThunk&logoColor=white"/></a>
+      <br/>
     <img src="https://img.shields.io/badge/Visual Studio Code-DB3552?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/GitHub-333664?style=flat&logo=GitHub&logoColor=white"/></a>
   <br/>
@@ -42,14 +48,17 @@
 
   <h4>아래는 알고있는 기술 스택입니다.</h4>
   
-    <img src="https://img.shields.io/badge/NodeJS-11B48A?style=flat&logo=Node.js&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Express-00599C?style=flat&logo=express&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>&nbsp
-    <br>
-<img src="https://img.shields.io/badge/MySql-E6B91E?style=flat&logo=MySql&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Maria-00599C?style=flat&logo=mariadb&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Eclipse IDE-11B48A?style=flat&logo=EclipseIDE&logoColor=white"/></a>&nbsp
+  
+
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>
+    <br/>
+  <img src="https://img.shields.io/badge/NodeJS-11B48A?style=flat&logo=Node.js&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Express-00599C?style=flat&logo=express&logoColor=white"/></a>
+  <br/>
+  <img src="https://img.shields.io/badge/MySql-E6B91E?style=flat&logo=MySql&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Maria-00599C?style=flat&logo=mariadb&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Eclipse IDE-11B48A?style=flat&logo=EclipseIDE&logoColor=white"/></a>
 </div>
 <hr/>
 
