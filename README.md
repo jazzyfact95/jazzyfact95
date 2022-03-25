@@ -30,17 +30,13 @@
 <div align="center">
   <h4>제가 현재 깊게 공부하며 사용하고 있는 기술 스택입니다.</h4
     
-  <img src="https://img.shields.io/badge/TypeScript-005571?style=flat&logo=ts-node&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/ejs-00599C?style=fla&logo=AzurePipelines&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/HTML-00599C?style=flat&logo=html5&logoColor=white"/></a>&nbsp
-  <br/>
-  <img src="https://img.shields.io/badge/React-005571?style=flat&logo=React&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/ES6-ffb13b?style=flat&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/HTML-00599C?style=flat&logo=html5&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/React-005571?style=flat&logo=React&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/ES6-ffb13b?style=flat&logo=javascript&logoColor=white"/></a>
     <br/>
-    <img src="https://img.shields.io/badge/Visual Studio Code-DB3552?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>&nbsp
-
-  <img src="https://img.shields.io/badge/GitHub-333664?style=flat&logo=GitHub&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Visual Studio Code-DB3552?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/GitHub-333664?style=flat&logo=GitHub&logoColor=white"/></a>
   <br/>
 
 
